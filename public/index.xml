@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Write Friday</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Free Write Friday</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 21 May 2025 15:44:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 21 May 2025 15:44:55 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is the About page. You can write Markdown here — include headings, links, images, or anything else.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multiple Relationships and Power in Biblical Counselling</title>
+      <link>http://localhost:1313/posts/multiple-relationships/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/multiple-relationships/</guid>
+      <description>&lt;h1 id=&#34;multiple-relationships-and-power-in-biblical-counselling&#34;&gt;Multiple Relationships and Power in Biblical Counselling&lt;/h1&gt;&#xA;&lt;p&gt;Note: This was originally delivered as a discussion paper for the &lt;a href=&#34;https:%5Cwww.bcuk.org&#34;&gt;BCUK&lt;/a&gt; roundtable in May 2025.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-blurred-lines-and-real-relationships&#34;&gt;1. Blurred Lines and Real Relationships&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“I’ve known Anna for about a decade, initially as a small group member, then a friend, now as friend and pastor. We have walked a long road together wrestling, amongst other things, with singleness, long term suffering, sexual assault and miscarriages. We’ve also rejoiced over healing, marriage, Christian growth and God’s faithfulness. We have lived in the same house for a while, been on holiday once as families together. Anna and her husband gave a significant amount towards the cost of my theological training. Anna was also technically my employer, but at the same time I was the person her husband was responsible to in his area of ministry in the church. Finally, I also met with Anna to do some biblical counselling for almost a year….”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

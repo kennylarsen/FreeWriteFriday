@@ -1,0 +1,24 @@
+{{ partial "site-navigation.html" . }}
+
+{{ if not .IsHome }}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  {{ if $featured_image }}
+    {{ $featured_image_class := site.Params.featured_image_class | default "cover bg-top" }}
+    {{ $cover_dimming_class := site.Params.cover_dimming_class | default "bg-black-60" }}
+    <!-- Your existing banner code here -->
+    <header class="{{ $featured_image_class }} relative w-100">
+      <div style="background-image: url('{{ $featured_image | absURL }}');" class="absolute top-0 right-0 bottom-0 left-0 {{ $cover_dimming_class }}"></div>
+      <div class="relative w-100 ph3 pv5 pv6-l">
+        <div class="mw8 center">
+          <h1 class="f1">
+            {{ .Title | default .Site.Title }}
+          </h1>
+          {{ with .Params.description }}
+            <p class="f3">{{ . }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </header>
+  {{ end }}
+{{ end }}
+
