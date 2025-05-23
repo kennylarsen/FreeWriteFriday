@@ -1,6 +1,6 @@
 +++
 date = '2025-05-21T15:44:55+01:00'
-draft = true
+draft = false
 title = 'About'
 menu = 'main'
 +++
