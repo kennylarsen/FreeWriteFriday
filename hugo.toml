@@ -19,7 +19,7 @@ filename = "sitemap.xml"
 [params]
 text_color = ""
 author = "Kenny Larsen"
-favicon = "images/favicon.png"
+favicon = "images/favicon.ico"
 site_logo = "images/logo.png"
 date_format = "2 January 2006"
 description = "The last theme you'll ever need. Maybe."
