@@ -4,8 +4,6 @@ author: Kenny Larsen
 date: "2025-04-24"
 ---
 
-# Multiple Relationships and Power in Biblical Counselling 
-
 Note: This was originally delivered as a discussion paper for the [BCUK](https:\\www.bcuk.org) roundtable in May 2025. 
 
 ## 1. Blurred Lines and Real Relationships
